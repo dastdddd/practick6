@@ -1,0 +1,172 @@
+{
+  "family": [
+    {
+      "id": "1",
+      "name": "Taalaibek",
+      "born": "1967",
+      "month": "august",
+      "day": "25",
+      "village": "Toolos",
+      "area": "Nookat",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "grandfather"
+    },
+    {
+      "id": "2",
+      "name": "Arzykan",
+      "born": "1969",
+      "month": "january",
+      "day": "09",
+      "village": "Toolos",
+      "area": "Nookat",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "grandmother"
+    },
+    {
+      "id": "3",
+      "name": "Dastanbek",
+      "born": "1992",
+      "month": "april",
+      "day": "08",
+      "village": "Toolos",
+      "area": "Nookat",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "son"
+    },
+    {
+      "id": "4",
+      "name": "Ruslanbek",
+      "born": "1994",
+      "month": "april",
+      "day": "02",
+      "village": "Toolos",
+      "area": "Nookat",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "son"
+    },
+    {
+      "id": "5",
+      "name": "Appaz",
+      "born": "1996",
+      "month": "jul",
+      "day": "25",
+      "village": "Batken",
+      "area": "Batken",
+      "region": "Batken",
+      "country": "Kyrgyzstan",
+      "status": "son"
+    },
+    {
+      "id": "6",
+      "name": "Jolbors",
+      "born": "2002",
+      "month": "october",
+      "day": "28",
+      "village": "Osh",
+      "area": "Osh",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "son"
+    },
+    {
+      "id": "7",
+      "name": "Kymbat",
+      "born": "2007",
+      "month": "jul",
+      "day": "17",
+      "village": "Osh",
+      "area": "Osh",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "daughter"
+    },
+    {
+      "id": "8",
+      "name": "Cholponai",
+      "born": "1995",
+      "month": "february",
+      "day": "21",
+      "village": "Jiida",
+      "area": "Nookat",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "Daughter-in-law"
+    },
+    {
+      "id": "9",
+      "name": "Asiia",
+      "born": "2017",
+      "month": "marth",
+      "day": "31",
+      "village": "Toloikon",
+      "area": "Karasuu",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "granddaughter"
+    },
+    {
+      "id": "10",
+      "name": "Amir",
+      "born": "2019",
+      "month": "jun",
+      "day": "09",
+      "village": "Osh",
+      "area": "Osh",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "grandson"
+    },
+    {
+      "id": "11",
+      "name": "Sara",
+      "born": "2022",
+      "month": "jun",
+      "day": "22",
+      "village": "Osh",
+      "area": "Osh",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "granddaughter"
+    },
+    {
+      "id": "12",
+      "name": "Minura",
+      "born": "2001",
+      "month": "january",
+      "day": "22",
+      "village": "Kyzyl-Kia",
+      "area": "Batken",
+      "region": "Batken",
+      "country": "Kyrgyzstan",
+      "status": "Daughter-in-law"
+    },
+    {
+      "id": "13",
+      "name": "Fatima",
+      "born": "2022",
+      "month": "marth",
+      "day": "11",
+      "village": "Osh",
+      "area": "Osh",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "granddaughter"
+    },
+    {
+      "id": "14",
+      "name": "Amina",
+      "born": "2023",
+      "month": "september",
+      "day": "05",
+      "village": "Osh",
+      "area": "Osh",
+      "region": "Osh",
+      "country": "Kyrgyzstan",
+      "status": "granddaughter"
+    }
+  ]
+}
